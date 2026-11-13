@@ -164,6 +164,18 @@ class Developer:
 | 🚢 **End-to-end ownership** | Database → API → web panel → mobile app → production deploy |
 | 📝 **Everything documented** | Changelogs, deploy guides and decision logs live next to the code |
 
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umud-xacer/umud-xacer/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umud-xacer/umud-xacer/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/umud-xacer/umud-xacer/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+</picture>
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
