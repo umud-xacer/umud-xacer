@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=umud-xacer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20%26%20Engineering%20Platforms&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=umud-xacer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20and%20Engineering%20Platforms&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/umud-xacer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+from+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;FastAPI+%2B+PostgreSQL+%2B+React+%2B+React+Native;Building+multi-tenant+SaaS+platforms;From+database+schema+to+production+deploy" alt="typing" />
