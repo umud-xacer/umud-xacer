@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=umud-xacer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20and%20Engineering%20Platforms&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010d49,50:1565f5,100:3DB5BF&height=220&section=header&text=umud-xacer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20and%20Engineering%20Platforms&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/umud-xacer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+from+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;FastAPI+%2B+PostgreSQL+%2B+React+%2B+React+Native;Building+multi-tenant+SaaS+platforms;From+database+schema+to+production+deploy" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=3DB5BF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+from+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;FastAPI+%2B+PostgreSQL+%2B+React+%2B+React+Native;Building+multi-tenant+SaaS+platforms;From+database+schema+to+production+deploy" alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=umud-xacer&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/umud-xacer?label=Followers&style=for-the-badge&color=0ea5e9&logo=github" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=umud-xacer&label=Profile%20views&color=1565f5&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/umud-xacer?label=Followers&style=for-the-badge&color=1565f5&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="open to collaboration" />
 
 </div>
@@ -57,9 +57,9 @@ class Developer:
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
       </p>
       <p>
-        <img src="https://img.shields.io/github/last-commit/umud-xacer/salon?style=flat-square&color=0ea5e9" />
-        <img src="https://img.shields.io/github/languages/top/umud-xacer/salon?style=flat-square&color=0ea5e9" />
-        <img src="https://img.shields.io/github/repo-size/umud-xacer/salon?style=flat-square&color=0ea5e9" />
+        <img src="https://img.shields.io/github/last-commit/umud-xacer/salon?style=flat-square&color=1565f5" />
+        <img src="https://img.shields.io/github/languages/top/umud-xacer/salon?style=flat-square&color=1565f5" />
+        <img src="https://img.shields.io/github/repo-size/umud-xacer/salon?style=flat-square&color=1565f5" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -73,9 +73,9 @@ class Developer:
         <img src="https://img.shields.io/badge/3D-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
       </p>
       <p>
-        <img src="https://img.shields.io/github/last-commit/umud-xacer/ges-platforma?style=flat-square&color=0ea5e9" />
-        <img src="https://img.shields.io/github/languages/top/umud-xacer/ges-platforma?style=flat-square&color=0ea5e9" />
-        <img src="https://img.shields.io/github/repo-size/umud-xacer/ges-platforma?style=flat-square&color=0ea5e9" />
+        <img src="https://img.shields.io/github/last-commit/umud-xacer/ges-platforma?style=flat-square&color=1565f5" />
+        <img src="https://img.shields.io/github/languages/top/umud-xacer/ges-platforma?style=flat-square&color=1565f5" />
+        <img src="https://img.shields.io/github/repo-size/umud-xacer/ges-platforma?style=flat-square&color=1565f5" />
       </p>
     </td>
   </tr>
@@ -91,9 +91,9 @@ class Developer:
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <p>
-        <img src="https://img.shields.io/github/last-commit/umud-xacer/activehomiloyxa?style=flat-square&color=0ea5e9" />
-        <img src="https://img.shields.io/github/languages/top/umud-xacer/activehomiloyxa?style=flat-square&color=0ea5e9" />
-        <img src="https://img.shields.io/github/repo-size/umud-xacer/activehomiloyxa?style=flat-square&color=0ea5e9" />
+        <img src="https://img.shields.io/github/last-commit/umud-xacer/activehomiloyxa?style=flat-square&color=1565f5" />
+        <img src="https://img.shields.io/github/languages/top/umud-xacer/activehomiloyxa?style=flat-square&color=1565f5" />
+        <img src="https://img.shields.io/github/repo-size/umud-xacer/activehomiloyxa?style=flat-square&color=1565f5" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -107,8 +107,8 @@ class Developer:
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <p>
-        <img src="https://img.shields.io/github/last-commit/umud-xacer/davrestr?style=flat-square&color=0ea5e9" />
-        <img src="https://img.shields.io/github/languages/top/umud-xacer/davrestr?style=flat-square&color=0ea5e9" />
+        <img src="https://img.shields.io/github/last-commit/umud-xacer/davrestr?style=flat-square&color=1565f5" />
+        <img src="https://img.shields.io/github/languages/top/umud-xacer/davrestr?style=flat-square&color=1565f5" />
         <a href="https://davrestr.vercel.app"><img src="https://img.shields.io/badge/Live-demo-22c55e?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
@@ -149,7 +149,7 @@ class Developer:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umud-xacer&theme=tokyonight" height="180" alt="stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umud-xacer&theme=tokyonight&utcOffset=5" height="180" alt="productive time" />
 
-<img src="https://streak-stats.demolab.com?user=umud-xacer&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=umud-xacer&background=0D1117&ring=1565F5&fire=3DB5BF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3DB5BF&sideLabels=5B9BFF&dates=93A9AF&stroke=27404A&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="streak" />
 
 </div>
 
@@ -178,6 +178,6 @@ class Developer:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DB5BF,50:1565f5,100:010d49&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
